@@ -6,7 +6,7 @@ public class Desafio {
     String tipoConta = "Corrente";
     Double saldo = 2000.00;
     Integer opcao= 0;
-        System.out.println("##############################" );
+        System.out.println("#############################" );
         System.out.println("\nA conta de: " + nome);
         System.out.println("Conta é do tipo: " +tipoConta);
         System.out.println("e o saldo é de: " +saldo);
