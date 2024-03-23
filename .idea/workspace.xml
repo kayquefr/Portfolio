@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d8ec384-68e9-4d44-9fa9-e0149fd74f28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio.iml" afterDir="false" />
-    </list>
+    <list default="true" id="5d8ec384-68e9-4d44-9fa9-e0149fd74f28" name="Changes" comment="code java for manager and consult on the bank" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,11 +53,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711228567008</updated>
-      <workItem from="1711229147989" duration="4323000" />
+      <workItem from="1711229147989" duration="4821000" />
     </task>
+    <task id="LOCAL-00001" summary="code java for manager and consult on the bank">
+      <option name="closed" value="true" />
+      <created>1711233581334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711233581335</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code java for manager and consult on the bank" />
+    <option name="LAST_COMMIT_MESSAGE" value="code java for manager and consult on the bank" />
   </component>
 </project>
